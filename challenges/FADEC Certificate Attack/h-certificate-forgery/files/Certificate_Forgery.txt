@@ -1,0 +1,25 @@
+-----BEGIN PUBLIC KEY-----
+MFowDQYJKoZIhvcNAQEBBQADSQAwRgI/AvYlVeDemLGRnyh2/+qGhUzp1GRt9dhT
+p2TEpOObDPA9XIul1J4E7uUzQAMnF6YEX8lpjjCnBEV2PHqV/CHnAgMBAAE=
+-----END PUBLIC KEY-----
+
+Certificate template:
+-----BEGIN CERTIFICATE-----
+MIIBjjCCATmgAwIBAgIUIzgbpAFacTenXNW2/WX/VqK+AGUwDQYJKoZIhvcNAQEL
+BQAwNjELMAkGA1UEBhMCAAAxCzAJBgNVBAgMAgAAMRowGAYDVQQKDBEAAAAAAAAA
+AAAAAAAAAAAAADAeFw0yNTAxMjMyMzI5NDVaFw0yNjAxMjMyMzI5NDVaMDYxCzAJ
+BgNVBAYTAgAAMQswCQYDVQQIDAIAADEaMBgGA1UECgwRAAAAAAAAAAAAAAAAAAAA
+AAAwWjANBgkqhkiG9w0BAQEFAANJADBGAj8C9iVV4N6YsZGfKHb/6oaFTOnUZG31
+2FOnZMSk45sM8D1ci6XUngTu5TNAAycXpgRfyWmOMKcERXY8epX8IecCAwEAAaMh
+MB8wHQYDVR0OBBYEFMCNkVB8Rnd/dYcT0g/gaK4gZUATMA0GCSqGSIb3DQEBCwUA
+A0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAA===
+-----END CERTIFICATE-----
+
+Please modify the certificate as follows: 
+Country: US
+State: AZ
+Company/Organization: Blue Bird Jet Air
+Signature: The correctly calculated signature for the certificate
+
+Using tools is a valid way of solving the challenge, but please keep ALL of the certificate details exactly the same as in the provided template.
